@@ -7,6 +7,8 @@
 ### Comandos cargo:
 - Criar um novo projeto
     - `cargo new nomedoprojeto`
+- Criar um novo projeto binario
+    - `cargo new --bin nomedoprojeto`
     
 - Para compilar/buildar o projeto em modo de debug
     - `cargo build`    
